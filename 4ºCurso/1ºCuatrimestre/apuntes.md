@@ -12,7 +12,7 @@ int main(){
 }
 ```
 
-![formula](https://render.githubusercontent.com/render/math?math=S=sum_{i=0}^{n}=\dfrac{n\cdot (n+1)}{2})
+<img src="https://render.githubusercontent.com/render/math?math=S=sum_{i=0}^{n}=\dfrac{n\cdot (n+1)}{2})">
 
 ```math
 SE = \frac{\sigma}{\sqrt{n}}
